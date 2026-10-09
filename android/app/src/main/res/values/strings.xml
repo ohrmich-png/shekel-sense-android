@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Shekel Sense</string>
+    <string name="title_activity_main">Shekel Sense</string>
+    <string name="package_name">png.ohrmich.shekelsense</string>
+    <string name="custom_url_scheme">png.ohrmich.shekelsense</string>
+</resources>

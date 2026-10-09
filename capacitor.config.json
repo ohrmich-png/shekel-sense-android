@@ -1,0 +1,12 @@
+{
+  "appId": "png.ohrmich.shekelsense",
+  "appName": "Shekel Sense",
+  "webDir": "www",
+  "server": {
+    "url": "https://ohrmich-png.github.io/shekel-sense/",
+    "cleartext": false
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
