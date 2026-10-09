@@ -7,3 +7,5 @@ android/local.properties
 android/capacitor.settings.gradle
 *.iml
 .DS_Store
+debug.keystore
+app-debug.apk
